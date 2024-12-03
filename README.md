@@ -1,6 +1,6 @@
 # 🌟 Welcome, I'm Артём! 👋  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there,%20I'm%20Artem!&fontAlign=50&fontAlignY=40&height=200&desc=Software%20Developer%20&%20Tech%20Enthusiast&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there,%20I'm%20Artem!&fontAlign=50&fontAlignY=40&height=200&desc=FrontendBeckend%20Developer%20&%20Tech%20Enthusiast&descAlignY=65&descAlign=50)
 
 ## 🚀 About Me  
 - 🎓 **Завершаю обучение в колледже** (Программное обеспечение).  

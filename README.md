@@ -8,7 +8,7 @@
 - 🌱 Изучаю: **JavaScript, Python**.  
 - 📬 Связаться: <p align="center">
   <a href="mailto:ar.gubarev50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://t.me/Edith509"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
 </p>
 
 

@@ -1,41 +1,54 @@
-# 🌟 Welcome, I'm Артём! 👋  
+<!-- Анимированная шапка -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Welcome,%20I'm%20Artem!&fontSize=40&fontColor=ffffff&fontAlign=50)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there,%20I'm%20Artem!&fontAlign=50&fontAlignY=40&height=200&desc=Software%20Developer%20&%20Tech%20Enthusiast&descAlignY=65&descAlign=50)
-
-## 🚀 About Me  
-- 🎓 **Завершаю обучение в колледже** (Программное обеспечение).   
-- 🏒 **Увлекаюсь хоккеем**, активно тренируюсь.  
-- 🌱 Изучаю: **JavaScript, Python, Git**.  
-- 📬 Связаться:  
-  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ar.gubarev50@gmail.com)  
-  [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](#)  
-
----
-
-## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Lifelong+Learner;Welcome+to+my+GitHub!" alt="Typing Animation" />
 </p>
 
 ---
 
-## 📈 Stats  
+## ✨ About Me  
+> 🌍 **Живу, чтобы творить и учиться!**  
+> 🎓 Завершаю колледж по направлению **Программное обеспечение**.  
+> 🔥 Строю свой проект [VKShopLab](#), где пользователи могут арендовать сайты.  
+> 🏒 В свободное время играю в хоккей и активно тренируюсь.  
+
+---
+
+## 🚀 Skills & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edith509&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edith509&layout=compact&theme=radical" height="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,react,vscode,figma&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-## 🎯 Fun Facts  
-- 💻 Постоянно ищу новые идеи для разработки.  
-- 🎮 Люблю играть в стратегии и экспериментировать с Web3.  
+## 📊 My Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Edith509&theme=radical&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edith509&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edith509&layout=compact&theme=radical&hide_border=true&border_radius=10" height="150" />
+</p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
+## 🌟 Fun Facts & Goals  
+- ⚡ **Цель:** Похудеть до 90 кг, работая над здоровьем и выносливостью.  
+- 🎯 **Мечта:** Создать приложение, которое решает реальные проблемы людей.  
+- 🎮 **Хобби:** Играю в стратегии и экспериментирую с Web3.  
+- 📚 **Кредо:** "Никогда не переставай учиться!"  
+
+---
+
+## 🌐 Let's Connect!  
+<p align="center">
+  <a href="mailto:ar.gubarev50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<!-- Анимированный подвал -->
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:ff758c,100:ff7eb3&height=100&section=footer&text=Thanks%20for%20visiting!%20💖&fontSize=20&fontColor=ffffff)
